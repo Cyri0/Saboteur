@@ -1,0 +1,5 @@
+tests\PlayerTest.class
+cyrio\saboteur\AppTest.class
+tests\TableTest.class
+tests\DeckTest.class
+tests\GameTest.class
